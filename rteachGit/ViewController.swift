@@ -17,7 +17,9 @@ class ViewController: UIViewController {
         // hello r
         print("tes")
     }
-
+    func testForDev() {
+        print("This is a test for the features branch")
+    }
 
 }
 
